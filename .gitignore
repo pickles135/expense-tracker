@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Created by https://www.toptal.com/developers/gitignore/api/node
 # Edit at https://www.toptal.com/developers/gitignore?templates=node
@@ -123,3 +124,6 @@ dist
 .pnp.*
 
 # End of https://www.toptal.com/developers/gitignore/api/node
+=======
+node_modules
+>>>>>>> 8813b37 (adds gitignore)
